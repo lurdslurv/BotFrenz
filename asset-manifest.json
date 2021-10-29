@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BotFrenz/static/css/main.f8b395b0.chunk.css",
-    "main.js": "/BotFrenz/static/js/main.f46e042d.chunk.js",
-    "main.js.map": "/BotFrenz/static/js/main.f46e042d.chunk.js.map",
+    "main.js": "/BotFrenz/static/js/main.f4611cb7.chunk.js",
+    "main.js.map": "/BotFrenz/static/js/main.f4611cb7.chunk.js.map",
     "runtime-main.js": "/BotFrenz/static/js/runtime-main.bb63e49f.js",
     "runtime-main.js.map": "/BotFrenz/static/js/runtime-main.bb63e49f.js.map",
     "static/css/2.6d7c7915.chunk.css": "/BotFrenz/static/css/2.6d7c7915.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.a3978ed2.chunk.js",
     "static/css/main.f8b395b0.chunk.css",
-    "static/js/main.f46e042d.chunk.js"
+    "static/js/main.f4611cb7.chunk.js"
   ]
 }
