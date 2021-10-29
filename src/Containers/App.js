@@ -39,7 +39,7 @@ onSearchChange = (event) => {
             return (
                 <div className ='tc'>
                     <h1 className ='mb1 f1 lightest-blue'>RoboFrenz</h1>
-                    <div className ='mh7'>
+                    <div className =''>
                     <a
                         className='light-green'
                         href="https://github.com/lurdslurv"
@@ -49,9 +49,7 @@ onSearchChange = (event) => {
                     </div>
                     <SearchBox searchChange={this.onSearchChange}/>
                     <Scroll>
-                    {/* <ErrorBoundary> */}
                         <CardList robots={filteredBots}/>
-                    {/* </ErrorBoundary> */}
                     </Scroll>
                 </div>
             );
